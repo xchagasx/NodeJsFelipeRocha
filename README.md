@@ -4,6 +4,7 @@ O que é NodeJs?
   Ambiente que permite a execução de código JavaScript Fora do navagador
   Utiliza a V8 engine(mesmo motor utilizado pelo navegador google chrome)
   É utilizado para construir APIs
+  
 
 Como o NodeJs funciona?
   Possui apenas um núcleo(sigle threaded)
